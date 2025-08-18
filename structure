@@ -1,0 +1,11 @@
+backend/
+├── app.py
+├── models/
+│   ├── __init__.py
+│   ├── data_processor.py
+│   ├── predictor.py
+│   └── scoring.py
+├── requirements.txt
+├── data/
+│   └── City_MedianRentalPrice_1Bedroom.csv
+└── README.md
