@@ -1,0 +1,19 @@
+frontend/
+├── public/
+│   ├── index.html
+│   └── ...
+├── src/
+│   ├── components/
+│   │   ├── CitySelector.js
+│   │   ├── CityStats.js
+│   │   ├── GrowthChart.js
+│   │   ├── InvestmentScore.js
+│   │   ├── PricePrediction.js
+│   │   └── StateStats.js
+│   ├── App.js
+│   ├── App.css
+│   ├── index.js
+│   └── services/
+│       └── api.js
+├── package.json
+└── README.md
