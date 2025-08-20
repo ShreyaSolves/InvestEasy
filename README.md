@@ -12,25 +12,3 @@ A full-stack platform that uses rental market data (Zillow dataset) to help inve
 ## 🛠 Tech Stack
 **Backend**: Python, Flask, Pandas, NumPy, Scikit-learn, Statsmodels  
 **Frontend**: React.js, Chart.js, React Circular Progressbar, CSS Flexbox/Grid  
-
-## 📂 Project Structure
-InvestEasy/
-├── backend/
-│ ├── app.py
-│ ├── models/
-│ │ ├── data_processor.py
-│ │ ├── predictor.py
-│ │ └── scoring.py
-│ ├── data/
-│ ├── requirements.txt
-│ └── README.md
-├── frontend/
-│ ├── public/
-│ ├── src/
-│ │ ├── components/
-│ │ ├── services/
-│ │ ├── App.js
-│ │ └── App.css
-│ ├── package.json
-│ └── README.md
-└── README.md
